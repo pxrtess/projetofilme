@@ -1,0 +1,42 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.fundo{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 0;
+}
+.filme{
+    display: flex;
+}
+.filme{
+    color: white;
+}
+.info-filme{
+    margin: 2em;
+    justify-content: space-between;
+    height: 100%;
+}
+.other-infos{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 2em;
+}
+.text-filme{
+    margin-bottom: 100%;
+}
+.container{
+    margin-top: 4em;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.581);
+    border-radius: 2em;
+    z-index: 5;
+    position: relative;
+}
+.filme img{
+    border-radius: 1em;
+}

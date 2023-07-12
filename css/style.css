@@ -1,0 +1,78 @@
+.lista {
+  margin-inline: 4em;
+}
+
+.filmes {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+;
+
+.divbotao {
+  position: absolute;
+  left: auto;
+  right: 30px;
+}
+
+.card {
+  width: fit-content;
+  background-color: #565655;
+}
+
+.card-img-top {
+  margin-top: 2%;
+  border-radius: 5%
+}
+
+.card-title {
+  color: white;
+}
+
+form {
+  height: fit-content;
+}
+
+a {
+  width: fit-content;
+  height: fit-content;
+}
+
+.lista {
+  margin-inline: 4em;
+}
+
+.filmes {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.divbotao {
+  position: absolute;
+  left: auto;
+  right: 30px;
+}
+
+.card {
+  width: fit-content;
+  background-color: #565655;
+}
+
+.card-img-top {
+  margin-top: 2%;
+  border-radius: 5%;
+}
+
+.card-title {
+  color: white;
+}
+
+form {
+  height: fit-content;
+}
+
+a {
+  width: fit-content;
+  height: fit-content;
+}
